@@ -24,6 +24,9 @@
         sprite.color = node.color;
         sprite.textHeight = 8;
         return sprite;
+      })
+      .onNodeRightClick((node) => {
+        window.open(node.url, "_blank");
       });
 
     // Spread nodes a little wider

@@ -2,1591 +2,1988 @@
   "nodes": [
     {
       "id": "Blockly.libraryBlocks",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/blocks/blocks.js"
     },
     {
       "id": "Blockly.libraryBlocks.colour",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/blocks/colour.js"
     },
     {
       "id": "Blockly.libraryBlocks.lists",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/blocks/lists.js"
     },
     {
       "id": "Blockly.libraryBlocks.logic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/blocks/logic.js"
     },
     {
       "id": "Blockly.libraryBlocks.loops",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/blocks/loops.js"
     },
     {
       "id": "Blockly.libraryBlocks.math",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/blocks/math.js"
     },
     {
       "id": "Blockly.libraryBlocks.procedures",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/blocks/procedures.js"
     },
     {
       "id": "Blockly.libraryBlocks.texts",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/blocks/text.js"
     },
     {
       "id": "Blockly.libraryBlocks.variables",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/blocks/variables.js"
     },
     {
       "id": "Blockly.libraryBlocks.variablesDynamic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/blocks/variables_dynamic.js"
     },
     {
       "id": "Blockly.Block",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/block.js"
     },
     {
       "id": "Blockly.blockAnimations",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/block_animations.js"
     },
     {
       "id": "Blockly.BlockDragSurfaceSvg",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/block_drag_surface.js"
     },
     {
       "id": "Blockly.BlockDragger",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/block_dragger.js"
     },
     {
       "id": "Blockly.BlockSvg",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/block_svg.js"
     },
     {
       "id": "Blockly",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/blockly.js"
     },
     {
       "id": "Blockly.BlocklyOptions",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/blockly_options.js"
     },
     {
       "id": "Blockly.blocks",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/blocks.js"
     },
     {
       "id": "Blockly.browserEvents",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/browser_events.js"
     },
     {
       "id": "Blockly.Bubble",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/bubble.js"
     },
     {
       "id": "Blockly.BubbleDragger",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/bubble_dragger.js"
     },
     {
       "id": "Blockly.bumpObjects",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/bump_objects.js"
     },
     {
       "id": "Blockly.clipboard",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/clipboard.js"
     },
     {
       "id": "Blockly.Comment",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/comment.js"
     },
     {
       "id": "Blockly.common",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/common.js"
     },
     {
       "id": "Blockly.ComponentManager",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/component_manager.js"
     },
     {
       "id": "Blockly.config",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/config.js"
     },
     {
       "id": "Blockly.Connection",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/connection.js"
     },
     {
       "id": "Blockly.ConnectionChecker",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/connection_checker.js"
     },
     {
       "id": "Blockly.ConnectionDB",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/connection_db.js"
     },
     {
       "id": "Blockly.ConnectionType",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/connection_type.js"
     },
     {
       "id": "Blockly.constants",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/constants.js"
     },
     {
       "id": "Blockly.ContextMenu",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/contextmenu.js"
     },
     {
       "id": "Blockly.ContextMenuItems",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/contextmenu_items.js"
     },
     {
       "id": "Blockly.ContextMenuRegistry",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/contextmenu_registry.js"
     },
     {
       "id": "Blockly.Css",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/css.js"
     },
     {
       "id": "Blockly.DeleteArea",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/delete_area.js"
     },
     {
       "id": "Blockly.dialog",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/dialog.js"
     },
     {
       "id": "Blockly.DragTarget",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/drag_target.js"
     },
     {
       "id": "Blockly.dropDownDiv",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/dropdowndiv.js"
     },
     {
       "id": "Blockly.Events",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events.js"
     },
     {
       "id": "Blockly.Events.Abstract",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_abstract.js"
     },
     {
       "id": "Blockly.Events.BlockBase",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_block_base.js"
     },
     {
       "id": "Blockly.Events.BlockChange",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_block_change.js"
     },
     {
       "id": "Blockly.Events.BlockCreate",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_block_create.js"
     },
     {
       "id": "Blockly.Events.BlockDelete",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_block_delete.js"
     },
     {
       "id": "Blockly.Events.BlockDrag",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_block_drag.js"
     },
     {
       "id": "Blockly.Events.BlockMove",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_block_move.js"
     },
     {
       "id": "Blockly.Events.BubbleOpen",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_bubble_open.js"
     },
     {
       "id": "Blockly.Events.Click",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_click.js"
     },
     {
       "id": "Blockly.Events.CommentBase",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_comment_base.js"
     },
     {
       "id": "Blockly.Events.CommentChange",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_comment_change.js"
     },
     {
       "id": "Blockly.Events.CommentCreate",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_comment_create.js"
     },
     {
       "id": "Blockly.Events.CommentDelete",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_comment_delete.js"
     },
     {
       "id": "Blockly.Events.CommentMove",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_comment_move.js"
     },
     {
       "id": "Blockly.Events.MarkerMove",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_marker_move.js"
     },
     {
       "id": "Blockly.Events.Selected",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_selected.js"
     },
     {
       "id": "Blockly.Events.ThemeChange",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_theme_change.js"
     },
     {
       "id": "Blockly.Events.ToolboxItemSelect",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_toolbox_item_select.js"
     },
     {
       "id": "Blockly.Events.TrashcanOpen",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_trashcan_open.js"
     },
     {
       "id": "Blockly.Events.Ui",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_ui.js"
     },
     {
       "id": "Blockly.Events.UiBase",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_ui_base.js"
     },
     {
       "id": "Blockly.Events.VarBase",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_var_base.js"
     },
     {
       "id": "Blockly.Events.VarCreate",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_var_create.js"
     },
     {
       "id": "Blockly.Events.VarDelete",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_var_delete.js"
     },
     {
       "id": "Blockly.Events.VarRename",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_var_rename.js"
     },
     {
       "id": "Blockly.Events.ViewportChange",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/events_viewport.js"
     },
     {
       "id": "Blockly.Events.utils",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/utils.js"
     },
     {
       "id": "Blockly.Events.FinishedLoading",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/events/workspace_events.js"
     },
     {
       "id": "Blockly.Extensions",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/extensions.js"
     },
     {
       "id": "Blockly.Field",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/field.js"
     },
     {
       "id": "Blockly.FieldAngle",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/field_angle.js"
     },
     {
       "id": "Blockly.FieldCheckbox",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/field_checkbox.js"
     },
     {
       "id": "Blockly.FieldColour",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/field_colour.js"
     },
     {
       "id": "Blockly.FieldDropdown",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/field_dropdown.js"
     },
     {
       "id": "Blockly.FieldImage",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/field_image.js"
     },
     {
       "id": "Blockly.FieldLabel",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/field_label.js"
     },
     {
       "id": "Blockly.FieldLabelSerializable",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/field_label_serializable.js"
     },
     {
       "id": "Blockly.FieldMultilineInput",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/field_multilineinput.js"
     },
     {
       "id": "Blockly.FieldNumber",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/field_number.js"
     },
     {
       "id": "Blockly.fieldRegistry",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/field_registry.js"
     },
     {
       "id": "Blockly.FieldTextInput",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/field_textinput.js"
     },
     {
       "id": "Blockly.FieldVariable",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/field_variable.js"
     },
     {
       "id": "Blockly.Flyout",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/flyout_base.js"
     },
     {
       "id": "Blockly.FlyoutButton",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/flyout_button.js"
     },
     {
       "id": "Blockly.HorizontalFlyout",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/flyout_horizontal.js"
     },
     {
       "id": "Blockly.FlyoutMetricsManager",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/flyout_metrics_manager.js"
     },
     {
       "id": "Blockly.VerticalFlyout",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/flyout_vertical.js"
     },
     {
       "id": "Blockly.Generator",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/generator.js"
     },
     {
       "id": "Blockly.Gesture",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/gesture.js"
     },
     {
       "id": "Blockly.Grid",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/grid.js"
     },
     {
       "id": "Blockly.Icon",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/icon.js"
     },
     {
       "id": "Blockly.inject",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/inject.js"
     },
     {
       "id": "Blockly.Input",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/input.js"
     },
     {
       "id": "Blockly.inputTypes",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/input_types.js"
     },
     {
       "id": "Blockly.InsertionMarkerManager",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/insertion_marker_manager.js"
     },
     {
       "id": "Blockly.IASTNodeLocation",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_ast_node_location.js"
     },
     {
       "id": "Blockly.IASTNodeLocationSvg",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_ast_node_location_svg.js"
     },
     {
       "id": "Blockly.IASTNodeLocationWithBlock",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_ast_node_location_with_block.js"
     },
     {
       "id": "Blockly.IAutoHideable",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_autohideable.js"
     },
     {
       "id": "Blockly.IBlockDragger",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_block_dragger.js"
     },
     {
       "id": "Blockly.IBoundedElement",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_bounded_element.js"
     },
     {
       "id": "Blockly.IBubble",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_bubble.js"
     },
     {
       "id": "Blockly.ICollapsibleToolboxItem",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_collapsible_toolbox_item.js"
     },
     {
       "id": "Blockly.IComponent",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_component.js"
     },
     {
       "id": "Blockly.IConnectionChecker",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_connection_checker.js"
     },
     {
       "id": "Blockly.IContextMenu",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_contextmenu.js"
     },
     {
       "id": "Blockly.ICopyable",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_copyable.js"
     },
     {
       "id": "Blockly.IDeletable",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_deletable.js"
     },
     {
       "id": "Blockly.IDeleteArea",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_delete_area.js"
     },
     {
       "id": "Blockly.IDragTarget",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_drag_target.js"
     },
     {
       "id": "Blockly.IDraggable",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_draggable.js"
     },
     {
       "id": "Blockly.IFlyout",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_flyout.js"
     },
     {
       "id": "Blockly.IKeyboardAccessible",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_keyboard_accessible.js"
     },
     {
       "id": "Blockly.IMetricsManager",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_metrics_manager.js"
     },
     {
       "id": "Blockly.IMovable",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_movable.js"
     },
     {
       "id": "Blockly.IPositionable",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_positionable.js"
     },
     {
       "id": "Blockly.IRegistrable",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_registrable.js"
     },
     {
       "id": "Blockly.IRegistrableField",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_registrable_field.js"
     },
     {
       "id": "Blockly.ISelectable",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_selectable.js"
     },
     {
       "id": "Blockly.ISelectableToolboxItem",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_selectable_toolbox_item.js"
     },
     {
       "id": "Blockly.serialization.ISerializer",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_serializer.js"
     },
     {
       "id": "Blockly.IStyleable",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_styleable.js"
     },
     {
       "id": "Blockly.IToolbox",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_toolbox.js"
     },
     {
       "id": "Blockly.IToolboxItem",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/interfaces/i_toolbox_item.js"
     },
     {
       "id": "Blockly.internalConstants",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/internal_constants.js"
     },
     {
       "id": "Blockly.ASTNode",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/keyboard_nav/ast_node.js"
     },
     {
       "id": "Blockly.BasicCursor",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/keyboard_nav/basic_cursor.js"
     },
     {
       "id": "Blockly.Cursor",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/keyboard_nav/cursor.js"
     },
     {
       "id": "Blockly.Marker",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/keyboard_nav/marker.js"
     },
     {
       "id": "Blockly.TabNavigateCursor",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/keyboard_nav/tab_navigate_cursor.js"
     },
     {
       "id": "Blockly.MarkerManager",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/marker_manager.js"
     },
     {
       "id": "Blockly.Menu",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/menu.js"
     },
     {
       "id": "Blockly.MenuItem",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/menuitem.js"
     },
     {
       "id": "Blockly.MetricsManager",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/metrics_manager.js"
     },
     {
       "id": "Blockly.Msg",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/msg.js"
     },
     {
       "id": "Blockly.Mutator",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/mutator.js"
     },
     {
       "id": "Blockly.Names",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/names.js"
     },
     {
       "id": "Blockly.Options",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/options.js"
     },
     {
       "id": "Blockly.uiPosition",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/positionable_helpers.js"
     },
     {
       "id": "Blockly.Procedures",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/procedures.js"
     },
     {
       "id": "Blockly.registry",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/registry.js"
     },
     {
       "id": "Blockly.RenderedConnection",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/rendered_connection.js"
     },
     {
       "id": "Blockly.blockRendering",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/common/block_rendering.js"
     },
     {
       "id": "Blockly.blockRendering.ConstantProvider",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/common/constants.js"
     },
     {
       "id": "Blockly.blockRendering.debug",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/common/debug.js"
     },
     {
       "id": "Blockly.blockRendering.Debug",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/common/debugger.js"
     },
     {
       "id": "Blockly.blockRendering.Drawer",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/common/drawer.js"
     },
     {
       "id": "Blockly.blockRendering.IPathObject",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/common/i_path_object.js"
     },
     {
       "id": "Blockly.blockRendering.RenderInfo",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/common/info.js"
     },
     {
       "id": "Blockly.blockRendering.MarkerSvg",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/common/marker_svg.js"
     },
     {
       "id": "Blockly.blockRendering.PathObject",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/common/path_object.js"
     },
     {
       "id": "Blockly.blockRendering.Renderer",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/common/renderer.js"
     },
     {
       "id": "Blockly.geras.ConstantProvider",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/geras/constants.js"
     },
     {
       "id": "Blockly.geras.Drawer",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/geras/drawer.js"
     },
     {
       "id": "Blockly.geras",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/geras/geras.js"
     },
     {
       "id": "Blockly.geras.HighlightConstantProvider",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/geras/highlight_constants.js"
     },
     {
       "id": "Blockly.geras.Highlighter",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/geras/highlighter.js"
     },
     {
       "id": "Blockly.geras.RenderInfo",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/geras/info.js"
     },
     {
       "id": "Blockly.geras.InlineInput",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/geras/measurables/inline_input.js"
     },
     {
       "id": "Blockly.geras.StatementInput",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/geras/measurables/statement_input.js"
     },
     {
       "id": "Blockly.geras.PathObject",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/geras/path_object.js"
     },
     {
       "id": "Blockly.geras.Renderer",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/geras/renderer.js"
     },
     {
       "id": "Blockly.blockRendering.Measurable",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/base.js"
     },
     {
       "id": "Blockly.blockRendering.BottomRow",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/bottom_row.js"
     },
     {
       "id": "Blockly.blockRendering.Connection",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/connection.js"
     },
     {
       "id": "Blockly.blockRendering.ExternalValueInput",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/external_value_input.js"
     },
     {
       "id": "Blockly.blockRendering.Field",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/field.js"
     },
     {
       "id": "Blockly.blockRendering.Hat",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/hat.js"
     },
     {
       "id": "Blockly.blockRendering.Icon",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/icon.js"
     },
     {
       "id": "Blockly.blockRendering.InRowSpacer",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/in_row_spacer.js"
     },
     {
       "id": "Blockly.blockRendering.InlineInput",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/inline_input.js"
     },
     {
       "id": "Blockly.blockRendering.InputConnection",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/input_connection.js"
     },
     {
       "id": "Blockly.blockRendering.InputRow",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/input_row.js"
     },
     {
       "id": "Blockly.blockRendering.JaggedEdge",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/jagged_edge.js"
     },
     {
       "id": "Blockly.blockRendering.NextConnection",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/next_connection.js"
     },
     {
       "id": "Blockly.blockRendering.OutputConnection",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/output_connection.js"
     },
     {
       "id": "Blockly.blockRendering.PreviousConnection",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/previous_connection.js"
     },
     {
       "id": "Blockly.blockRendering.RoundCorner",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/round_corner.js"
     },
     {
       "id": "Blockly.blockRendering.Row",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/row.js"
     },
     {
       "id": "Blockly.blockRendering.SpacerRow",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/spacer_row.js"
     },
     {
       "id": "Blockly.blockRendering.SquareCorner",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/square_corner.js"
     },
     {
       "id": "Blockly.blockRendering.StatementInput",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/statement_input.js"
     },
     {
       "id": "Blockly.blockRendering.TopRow",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/top_row.js"
     },
     {
       "id": "Blockly.blockRendering.Types",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/measurables/types.js"
     },
     {
       "id": "Blockly.minimalist.ConstantProvider",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/minimalist/constants.js"
     },
     {
       "id": "Blockly.minimalist.Drawer",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/minimalist/drawer.js"
     },
     {
       "id": "Blockly.minimalist.RenderInfo",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/minimalist/info.js"
     },
     {
       "id": "Blockly.minimalist",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/minimalist/minimalist.js"
     },
     {
       "id": "Blockly.minimalist.Renderer",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/minimalist/renderer.js"
     },
     {
       "id": "Blockly.thrasos.RenderInfo",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/thrasos/info.js"
     },
     {
       "id": "Blockly.thrasos.Renderer",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/thrasos/renderer.js"
     },
     {
       "id": "Blockly.thrasos",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/thrasos/thrasos.js"
     },
     {
       "id": "Blockly.zelos.ConstantProvider",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/zelos/constants.js"
     },
     {
       "id": "Blockly.zelos.Drawer",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/zelos/drawer.js"
     },
     {
       "id": "Blockly.zelos.RenderInfo",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/zelos/info.js"
     },
     {
       "id": "Blockly.zelos.MarkerSvg",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/zelos/marker_svg.js"
     },
     {
       "id": "Blockly.zelos.BottomRow",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/zelos/measurables/bottom_row.js"
     },
     {
       "id": "Blockly.zelos.StatementInput",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/zelos/measurables/inputs.js"
     },
     {
       "id": "Blockly.zelos.RightConnectionShape",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/zelos/measurables/row_elements.js"
     },
     {
       "id": "Blockly.zelos.TopRow",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/zelos/measurables/top_row.js"
     },
     {
       "id": "Blockly.zelos.PathObject",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/zelos/path_object.js"
     },
     {
       "id": "Blockly.zelos.Renderer",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/zelos/renderer.js"
     },
     {
       "id": "Blockly.zelos",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/renderers/zelos/zelos.js"
     },
     {
       "id": "Blockly.Scrollbar",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/scrollbar.js"
     },
     {
       "id": "Blockly.ScrollbarPair",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/scrollbar_pair.js"
     },
     {
       "id": "Blockly.serialization.blocks",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/serialization/blocks.js"
     },
     {
       "id": "Blockly.serialization.exceptions",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/serialization/exceptions.js"
     },
     {
       "id": "Blockly.serialization.priorities",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/serialization/priorities.js"
     },
     {
       "id": "Blockly.serialization.registry",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/serialization/registry.js"
     },
     {
       "id": "Blockly.serialization.variables",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/serialization/variables.js"
     },
     {
       "id": "Blockly.serialization.workspaces",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/serialization/workspaces.js"
     },
     {
       "id": "Blockly.ShortcutItems",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/shortcut_items.js"
     },
     {
       "id": "Blockly.ShortcutRegistry",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/shortcut_registry.js"
     },
     {
       "id": "Blockly.sprite",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/sprites.js"
     },
     {
       "id": "Blockly.Themes.Classic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/theme/classic.js"
     },
     {
       "id": "Blockly.Themes",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/theme/themes.js"
     },
     {
       "id": "Blockly.Themes.Zelos",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/theme/zelos.js"
     },
     {
       "id": "Blockly.Theme",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/theme.js"
     },
     {
       "id": "Blockly.ThemeManager",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/theme_manager.js"
     },
     {
       "id": "Blockly.ToolboxCategory",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/toolbox/category.js"
     },
     {
       "id": "Blockly.CollapsibleToolboxCategory",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/toolbox/collapsible_category.js"
     },
     {
       "id": "Blockly.ToolboxSeparator",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/toolbox/separator.js"
     },
     {
       "id": "Blockly.Toolbox",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/toolbox/toolbox.js"
     },
     {
       "id": "Blockly.ToolboxItem",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/toolbox/toolbox_item.js"
     },
     {
       "id": "Blockly.Tooltip",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/tooltip.js"
     },
     {
       "id": "Blockly.Touch",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/touch.js"
     },
     {
       "id": "Blockly.TouchGesture",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/touch_gesture.js"
     },
     {
       "id": "Blockly.Trashcan",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/trashcan.js"
     },
     {
       "id": "Blockly.utils.aria",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/aria.js"
     },
     {
       "id": "Blockly.utils.array",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/array.js"
     },
     {
       "id": "Blockly.utils.colour",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/colour.js"
     },
     {
       "id": "Blockly.utils.Coordinate",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/coordinate.js"
     },
     {
       "id": "Blockly.utils.deprecation",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/deprecation.js"
     },
     {
       "id": "Blockly.utils.dom",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/dom.js"
     },
     {
       "id": "Blockly.utils.global",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/global.js"
     },
     {
       "id": "Blockly.utils.idGenerator",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/idgenerator.js"
     },
     {
       "id": "Blockly.utils.KeyCodes",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/keycodes.js"
     },
     {
       "id": "Blockly.utils.math",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/math.js"
     },
     {
       "id": "Blockly.utils.Metrics",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/metrics.js"
     },
     {
       "id": "Blockly.utils.object",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/object.js"
     },
     {
       "id": "Blockly.utils.parsing",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/parsing.js"
     },
     {
       "id": "Blockly.utils.Rect",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/rect.js"
     },
     {
       "id": "Blockly.utils.Sentinel",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/sentinel.js"
     },
     {
       "id": "Blockly.utils.Size",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/size.js"
     },
     {
       "id": "Blockly.utils.string",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/string.js"
     },
     {
       "id": "Blockly.utils.style",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/style.js"
     },
     {
       "id": "Blockly.utils.Svg",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/svg.js"
     },
     {
       "id": "Blockly.utils.svgMath",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/svg_math.js"
     },
     {
       "id": "Blockly.utils.svgPaths",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/svg_paths.js"
     },
     {
       "id": "Blockly.utils.toolbox",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/toolbox.js"
     },
     {
       "id": "Blockly.utils.userAgent",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/useragent.js"
     },
     {
       "id": "Blockly.utils.xml",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils/xml.js"
     },
     {
       "id": "Blockly.utils",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/utils.js"
     },
     {
       "id": "Blockly.VariableMap",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/variable_map.js"
     },
     {
       "id": "Blockly.VariableModel",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/variable_model.js"
     },
     {
       "id": "Blockly.Variables",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/variables.js"
     },
     {
       "id": "Blockly.VariablesDynamic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/variables_dynamic.js"
     },
     {
       "id": "Blockly.Warning",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/warning.js"
     },
     {
       "id": "Blockly.WidgetDiv",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/widgetdiv.js"
     },
     {
       "id": "Blockly.Workspace",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/workspace.js"
     },
     {
       "id": "Blockly.WorkspaceAudio",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/workspace_audio.js"
     },
     {
       "id": "Blockly.WorkspaceComment",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/workspace_comment.js"
     },
     {
       "id": "Blockly.WorkspaceCommentSvg",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/workspace_comment_svg.js"
     },
     {
       "id": "Blockly.WorkspaceDragSurfaceSvg",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/workspace_drag_surface_svg.js"
     },
     {
       "id": "Blockly.WorkspaceDragger",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/workspace_dragger.js"
     },
     {
       "id": "Blockly.WorkspaceSvg",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/workspace_svg.js"
     },
     {
       "id": "Blockly.Xml",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/xml.js"
     },
     {
       "id": "Blockly.ZoomControls",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/core/zoom_controls.js"
     },
     {
       "id": "Blockly.Dart.all",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/dart/all.js"
     },
     {
       "id": "Blockly.Dart.colour",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/dart/colour.js"
     },
     {
       "id": "Blockly.Dart.lists",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/dart/lists.js"
     },
     {
       "id": "Blockly.Dart.logic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/dart/logic.js"
     },
     {
       "id": "Blockly.Dart.loops",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/dart/loops.js"
     },
     {
       "id": "Blockly.Dart.math",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/dart/math.js"
     },
     {
       "id": "Blockly.Dart.procedures",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/dart/procedures.js"
     },
     {
       "id": "Blockly.Dart.texts",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/dart/text.js"
     },
     {
       "id": "Blockly.Dart.variables",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/dart/variables.js"
     },
     {
       "id": "Blockly.Dart.variablesDynamic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/dart/variables_dynamic.js"
     },
     {
       "id": "Blockly.Dart",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/dart.js"
     },
     {
       "id": "Blockly.JavaScript.all",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/javascript/all.js"
     },
     {
       "id": "Blockly.JavaScript.colour",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/javascript/colour.js"
     },
     {
       "id": "Blockly.JavaScript.lists",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/javascript/lists.js"
     },
     {
       "id": "Blockly.JavaScript.logic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/javascript/logic.js"
     },
     {
       "id": "Blockly.JavaScript.loops",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/javascript/loops.js"
     },
     {
       "id": "Blockly.JavaScript.math",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/javascript/math.js"
     },
     {
       "id": "Blockly.JavaScript.procedures",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/javascript/procedures.js"
     },
     {
       "id": "Blockly.JavaScript.texts",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/javascript/text.js"
     },
     {
       "id": "Blockly.JavaScript.variables",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/javascript/variables.js"
     },
     {
       "id": "Blockly.JavaScript.variablesDynamic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/javascript/variables_dynamic.js"
     },
     {
       "id": "Blockly.JavaScript",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/javascript.js"
     },
     {
       "id": "Blockly.Lua.all",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/lua/all.js"
     },
     {
       "id": "Blockly.Lua.colour",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/lua/colour.js"
     },
     {
       "id": "Blockly.Lua.lists",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/lua/lists.js"
     },
     {
       "id": "Blockly.Lua.logic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/lua/logic.js"
     },
     {
       "id": "Blockly.Lua.loops",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/lua/loops.js"
     },
     {
       "id": "Blockly.Lua.math",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/lua/math.js"
     },
     {
       "id": "Blockly.Lua.procedures",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/lua/procedures.js"
     },
     {
       "id": "Blockly.Lua.texts",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/lua/text.js"
     },
     {
       "id": "Blockly.Lua.variables",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/lua/variables.js"
     },
     {
       "id": "Blockly.Lua.variablesDynamic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/lua/variables_dynamic.js"
     },
     {
       "id": "Blockly.Lua",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/lua.js"
     },
     {
       "id": "Blockly.PHP.all",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/php/all.js"
     },
     {
       "id": "Blockly.PHP.colour",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/php/colour.js"
     },
     {
       "id": "Blockly.PHP.lists",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/php/lists.js"
     },
     {
       "id": "Blockly.PHP.logic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/php/logic.js"
     },
     {
       "id": "Blockly.PHP.loops",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/php/loops.js"
     },
     {
       "id": "Blockly.PHP.math",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/php/math.js"
     },
     {
       "id": "Blockly.PHP.procedures",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/php/procedures.js"
     },
     {
       "id": "Blockly.PHP.texts",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/php/text.js"
     },
     {
       "id": "Blockly.PHP.variables",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/php/variables.js"
     },
     {
       "id": "Blockly.PHP.variablesDynamic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/php/variables_dynamic.js"
     },
     {
       "id": "Blockly.PHP",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/php.js"
     },
     {
       "id": "Blockly.Python.all",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/python/all.js"
     },
     {
       "id": "Blockly.Python.colour",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/python/colour.js"
     },
     {
       "id": "Blockly.Python.lists",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/python/lists.js"
     },
     {
       "id": "Blockly.Python.logic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/python/logic.js"
     },
     {
       "id": "Blockly.Python.loops",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/python/loops.js"
     },
     {
       "id": "Blockly.Python.math",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/python/math.js"
     },
     {
       "id": "Blockly.Python.procedures",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/python/procedures.js"
     },
     {
       "id": "Blockly.Python.texts",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/python/text.js"
     },
     {
       "id": "Blockly.Python.variables",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/python/variables.js"
     },
     {
       "id": "Blockly.Python.variablesDynamic",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/python/variables_dynamic.js"
     },
     {
       "id": "Blockly.Python",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/generators/python.js"
     },
     {
       "id": "Main",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/compile/main.js"
     },
     {
       "id": "Blockly.test.astNode",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/astnode_test.js"
     },
     {
       "id": "Blockly.test.blockChangeEvent",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/block_change_event_test.js"
     },
     {
       "id": "Blockly.test.blockCreateEvent",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/block_create_event_test.js"
     },
     {
       "id": "Blockly.test.blockJson",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/block_json_test.js"
     },
     {
       "id": "Blockly.test.blocks",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/block_test.js"
     },
     {
       "id": "Blockly.test.commentDeserialization",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/comment_deserialization_test.js"
     },
     {
       "id": "Blockly.test.comments",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/comment_test.js"
     },
     {
       "id": "Blockly.test.connectionChecker",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/connection_checker_test.js"
     },
     {
       "id": "Blockly.test.connectionDb",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/connection_db_test.js"
     },
     {
       "id": "Blockly.test.connection",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/connection_test.js"
     },
     {
       "id": "Blockly.test.contextMenuItem",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/contextmenu_items_test.js"
     },
     {
       "id": "Blockly.test.cursor",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/cursor_test.js"
     },
     {
       "id": "Blockly.test.dropdown",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/dropdowndiv_test.js"
     },
     {
       "id": "Blockly.test.event",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/event_test.js"
     },
     {
       "id": "Blockly.test.extensions",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/extensions_test.js"
     },
     {
       "id": "Blockly.test.fieldAngle",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/field_angle_test.js"
     },
     {
       "id": "Blockly.test.fieldCheckbox",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/field_checkbox_test.js"
     },
     {
       "id": "Blockly.test.fieldColour",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/field_colour_test.js"
     },
     {
       "id": "Blockly.test.fieldDropdown",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/field_dropdown_test.js"
     },
     {
       "id": "Blockly.test.fieldImage",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/field_image_test.js"
     },
     {
       "id": "Blockly.test.fieldLabelSerialization",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/field_label_serializable_test.js"
     },
     {
       "id": "Blockly.test.fieldLabel",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/field_label_test.js"
     },
     {
       "id": "Blockly.test.fieldMultiline",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/field_multilineinput_test.js"
     },
     {
       "id": "Blockly.test.fieldNumber",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/field_number_test.js"
     },
     {
       "id": "Blockly.test.fieldRegistry",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/field_registry_test.js"
     },
     {
       "id": "Blockly.test.fieldTest",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/field_test.js"
     },
     {
       "id": "Blockly.test.fieldTextInput",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/field_textinput_test.js"
     },
     {
       "id": "Blockly.test.fieldVariable",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/field_variable_test.js"
     },
     {
       "id": "Blockly.test.flyout",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/flyout_test.js"
     },
     {
       "id": "Blockly.test.generator",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/generator_test.js"
     },
     {
       "id": "Blockly.test.gesture",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/gesture_test.js"
     },
     {
       "id": "Blockly.test.input",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/input_test.js"
     },
     {
       "id": "Blockly.test.insertionMarker",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/insertion_marker_test.js"
     },
     {
       "id": "Blockly.test.jsoDeserialization",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/jso_deserialization_test.js"
     },
     {
       "id": "Blockly.test.jsoSerialization",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/jso_serialization_test.js"
     },
     {
       "id": "Blockly.test.json",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/json_test.js"
     },
     {
       "id": "Blockly.test.keydown",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/keydown_test.js"
     },
     {
       "id": "Blockly.test.logicTernary",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/logic_ternary_test.js"
     },
     {
       "id": "Blockly.test.metrics",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/metrics_test.js"
     },
     {
       "id": "Blockly.test.mutator",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/mutator_test.js"
     },
     {
       "id": "Blockly.test.names",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/names_test.js"
     },
     {
       "id": "Blockly.test.procedures",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/procedures_test.js"
     },
     {
       "id": "Blockly.test.registry",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/registry_test.js"
     },
     {
       "id": "Blockly.test.serialization",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/serializer_test.js"
     },
     {
       "id": "Blockly.test.shortcutRegistry",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/shortcut_registry_test.js"
     },
     {
       "id": "Blockly.test.helpers.blockDefinitions",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/test_helpers/block_definitions.js"
     },
     {
       "id": "Blockly.test.helpers.codeGeneration",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/test_helpers/code_generation.js"
     },
     {
       "id": "Blockly.test.helpers.common",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/test_helpers/common.js"
     },
     {
       "id": "Blockly.test.helpers.events",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/test_helpers/events.js"
     },
     {
       "id": "Blockly.test.helpers.fields",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/test_helpers/fields.js"
     },
     {
       "id": "Blockly.test.helpers.procedures",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/test_helpers/procedures.js"
     },
     {
       "id": "Blockly.test.helpers.serialization",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/test_helpers/serialization.js"
     },
     {
       "id": "Blockly.test.helpers.setupTeardown",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/test_helpers/setup_teardown.js"
     },
     {
       "id": "Blockly.test.helpers.toolboxDefinitions",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/test_helpers/toolbox_definitions.js"
     },
     {
       "id": "Blockly.test.helpers.userInput",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/test_helpers/user_input.js"
     },
     {
       "id": "Blockly.test.helpers.variables",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/test_helpers/variables.js"
     },
     {
       "id": "Blockly.test.helpers.warnings",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/test_helpers/warnings.js"
     },
     {
       "id": "Blockly.test.helpers.workspace",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/test_helpers/workspace.js"
     },
     {
       "id": "Blockly.test.theme",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/theme_test.js"
     },
     {
       "id": "Blockly.test.toolbox",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/toolbox_test.js"
     },
     {
       "id": "Blockly.test.tooltip",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/tooltip_test.js"
     },
     {
       "id": "Blockly.test.trashcan",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/trashcan_test.js"
     },
     {
       "id": "Blockly.test.utils",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/utils_test.js"
     },
     {
       "id": "Blockly.test.variableMap",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/variable_map_test.js"
     },
     {
       "id": "Blockly.test.variableModel",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/variable_model_test.js"
     },
     {
       "id": "Blockly.test.variables",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/variables_test.js"
     },
     {
       "id": "Blockly.test.widgetDiv",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/widget_div_test.js"
     },
     {
       "id": "Blockly.test.workspaceComment",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/workspace_comment_test.js"
     },
     {
       "id": "Blockly.test.workspaceSvg",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/workspace_svg_test.js"
     },
     {
       "id": "Blockly.test.workspace",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/workspace_test.js"
     },
     {
       "id": "Blockly.test.xml",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/xml_test.js"
     },
     {
       "id": "Blockly.test.zoomControls",
-      "group": 1
+      "group": 1,
+      "url": "https://github.dev/google/blockly/blob/master/tests/mocha/zoom_controls_test.js"
     }
   ],
   "links": [

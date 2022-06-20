@@ -5,7 +5,7 @@
  * Author: Bo.Jin (bo.jin@borgor.cn)
  * -----
  * Last Modified: Bo.Jin (bo.jin@borgor.cn)
- * Modified By: 2022-06-20 23:25:11 pm
+ * Modified By: 2022-06-20 23:56:23 pm
  * ------------------------------------
  * Copyright (c) 2022 BorGor.cn
  * ------------------------------------
@@ -42,7 +42,13 @@ res.forEach((filePath) => {
   let match = /goog\.module\(\'([a-zA-Z0-9\.]+)\'\);/.exec(content);
   if (match) {
     const moduleName = match[1];
-    nodes[moduleName] = { id: moduleName, group: 1 };
+    nodes[moduleName] = {
+      id: moduleName,
+      group: 1,
+      url:
+        "https://github.dev/google/blockly/blob/master" +
+        filePath.replace(__dirname + "/sourcecode", ""),
+    };
     refTimes[moduleName] = refTimes[moduleName] || 0;
     const contentRequire = fs.readFileSync(filePath, "utf-8");
     let matchRequire = contentRequire.match(
@@ -56,24 +62,21 @@ res.forEach((filePath) => {
         refTimes[moduleName] = refTimes[moduleName]
           ? refTimes[moduleName] + 1
           : 1;
-        links.push({
-          source: moduleName,
-          target: moduleRequiredName,
-          value: 0,
-        });
+        if (moduleRequiredName !== "Blockly.libraryBlocks.testBlocks") {
+          links.push({
+            source: moduleName,
+            target: moduleRequiredName,
+            value: 0,
+          });
+        }
       });
     }
   }
 });
+
 links.forEach((link) => {
   link.value = refTimes[link.source];
 });
-// const pathInfo =
-//   "/Users/ck/Documents/projects/Learning/blockly/sourcecode/core/flyout_button.js";
-
-// const content = fs.readFileSync(pathInfo, "utf-8");
-// let match = content.match(/goog\.require\(\'([a-zA-Z0-9\.]+)\'\);/g);
-// console.log(match);
 
 fs.writeFileSync(
   "database.json",
