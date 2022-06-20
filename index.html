@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+  <style>
+    body {
+      margin: 0;
+    }
+  </style>
+  <title>Blockly Module Diagram</title>
+  <script src="./three.js"></script>
+  <script src="./three-spritetext.min.js"></script>
+  <script src="./3d-force-graph.min.js"></script>
+</head>
+
+<body>
+  <div style="width: 100%; height: 100vh" id="3d-graph"></div>
+
+  <script>
+    const Graph = ForceGraph3D()(document.getElementById("3d-graph"))
+      .jsonUrl("./database.json")
+      .nodeAutoColorBy("group")
+      .nodeThreeObject((node) => {
+        const sprite = new SpriteText(node.id);
+        sprite.material.depthWrite = false; // make sprite background transparent
+        sprite.color = node.color;
+        sprite.textHeight = 8;
+        return sprite;
+      });
+
+    // Spread nodes a little wider
+    Graph.d3Force("charge").strength(-120);
+  </script>
+</body>
